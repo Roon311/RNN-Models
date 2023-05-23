@@ -58,4 +58,4 @@ pip install numpy matplotlib scikit-learn tensorflow pandas seaborn pandas-profi
 
 For any questions or inquiries, please contact [s-noureldin.hamed@zewailcity.edu.eg].
 
-Feel free to customize this README file according to your specific project details. Good luck with your temperature prediction models!
+Good luck with your temperature prediction models!
